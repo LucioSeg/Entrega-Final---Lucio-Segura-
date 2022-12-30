@@ -5,7 +5,10 @@
   grid-auto-columns: 1fr;
   gap: 0px 18em;
   grid-auto-flow: row;
-  grid-template-areas: "NavBar" "Mid" "Cards" "Footer";
+  grid-template-areas: "NavBar"
+ "Mid"
+ "Cards"
+ "Footer";
   max-height: 80rem; }
 
 /*<::::::RESPONSIVE ::::::>*/
