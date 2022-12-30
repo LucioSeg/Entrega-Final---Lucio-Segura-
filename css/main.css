@@ -5,7 +5,10 @@
   grid-auto-columns: 1fr;
   gap: 0px 18em;
   grid-auto-flow: row;
-  grid-template-areas: "NavBar" "Mid" "Cards" "Footer";
+  grid-template-areas: "NavBar"
+ "Mid"
+ "Cards"
+ "Footer";
   max-height: 80rem; }
 
 /*<::::::RESPONSIVE ::::::>*/
@@ -100,7 +103,7 @@ span {
 
 /*<::::::BACKGROUND::::::>*/
 body {
-  background: url(../Imagenes/Fondo/Fondo.png);
+  background: url(../imagenes/fondo/fondo.png);
   background-repeat: no-repeat;
   box-sizing: border-box;
   border: solid #0c8018 20px;
