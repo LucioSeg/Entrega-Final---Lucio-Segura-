@@ -31,8 +31,7 @@
     margin-top: 2rem;
     max-width: 24rem; }
   body {
-    min-height: 172.2rem;
-    max-width: 24rem; }
+    min-height: 172.2rem; }
   footer {
     margin-top: 70rem;
     max-height: 20rem; }
@@ -51,9 +50,7 @@
     align-items: center; }
   .img_nos {
     width: 30rem;
-    height: 10rem; }
-  .Nav-Bar {
-    max-width: 24rem; } }
+    height: 10rem; } }
 
 /*<::::::NAVBAR::::::>*/
 .NavBar {
@@ -100,7 +97,7 @@ span {
 
 /*<::::::BACKGROUND::::::>*/
 body {
-  background: url(../Imagenes/Fondo/Fondo.png);
+  background: url(../imagenes/fondo/fondo.png);
   background-repeat: no-repeat;
   box-sizing: border-box;
   border: solid #0c8018 20px;
